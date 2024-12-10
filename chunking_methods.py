@@ -91,7 +91,7 @@ Provide the chunks as a JSON array, with each chunk as a separate string.
 
 # Example Usage
 if __name__ == "__main__":
-    input_text = (
+    input_text = (     
         "Natural Language Processing is a fascinating field. "
         "It allows machines to understand and generate human-like text. "
         "Applications range from chatbots to translation tools. "
